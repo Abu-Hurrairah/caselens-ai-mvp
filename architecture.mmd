@@ -1,0 +1,15 @@
+flowchart LR
+    U[User] --> UI[Streamlit Web App]
+    UI --> UP[PDF / TXT Upload]
+    UP --> EX[PyMuPDF / Text Extraction]
+    EX --> CH[Chunking]
+    CH --> SUM[FLAN-T5 Small\nSummary]
+    CH --> RET[TF-IDF Retriever]
+    RET --> CTX[Top Relevant Chunks]
+    Q[User Question] --> CTX
+    CTX --> LLM[FLAN-T5 Small\nGrounded Answer]
+    LLM --> OUT[Answer + Citations]
+    CH --> TL[Timeline / Key Facts]
+    SUM --> UI
+    OUT --> UI
+    TL --> UI

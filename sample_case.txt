@@ -1,0 +1,18 @@
+SYNTHETIC DEMO CASE — FOR SOFTWARE TESTING ONLY
+
+Case: Rivera v. Northstar Logistics
+Court: Superior Court of Franklin County
+
+On January 12, 2025, Maria Rivera entered into a written delivery-services agreement with Northstar Logistics. The agreement required Northstar to deliver temperature-sensitive medical equipment to Rivera's clinic by January 20, 2025.
+
+On January 18, 2025, Northstar informed Rivera that severe weather had delayed several deliveries. Rivera replied that the equipment was required for scheduled procedures and requested confirmation that the January 20 deadline would still be met.
+
+The equipment arrived on January 23, 2025. Rivera alleged that the delay forced the clinic to reschedule procedures and caused financial losses. She filed a breach-of-contract claim seeking damages.
+
+Northstar argued that the weather event was outside its control and relied on a force-majeure clause in the agreement. The clause excused delay caused by extraordinary weather only when the affected party provided prompt written notice and used reasonable efforts to reduce the delay.
+
+The court found that severe weather qualified as an extraordinary event, but also found that Northstar had not shown adequate evidence of reasonable mitigation efforts. The court further found that Northstar's January 18 notice was late because internal records showed the company knew of the likely delay on January 15, 2025.
+
+On June 4, 2025, the court held that Northstar breached the agreement by failing to comply with the notice and mitigation requirements of the force-majeure clause. The court awarded Rivera documented direct losses but rejected speculative future-profit damages.
+
+The court ordered the parties to submit a calculation of direct damages within 14 days.
