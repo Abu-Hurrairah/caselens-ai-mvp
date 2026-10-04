@@ -42,17 +42,6 @@ streamlit run app.py
 
 Open the local URL printed by Streamlit.
 
-## Free deployment
-
-Deploy the public GitHub repository on Streamlit Community Cloud:
-
-1. Push these files to a public GitHub repository.
-2. Sign in at `https://share.streamlit.io` with GitHub.
-3. Choose **Create app**.
-4. Select the repository and `main` branch.
-5. Set the entrypoint to `app.py`.
-6. Deploy.
-
 No API secrets are required.
 
 ## Suggested demo
